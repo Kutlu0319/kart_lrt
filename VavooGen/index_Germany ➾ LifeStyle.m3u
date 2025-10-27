@@ -531,6 +531,13 @@ https://vavoo.to/play/1939121683/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/425765881/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REGIO TV STUTTGART (6)" tvg-logo="" group-title="Germany ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",REGIO TV STUTTGART (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2666883811/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RFH (6)" tvg-logo="" group-title="Germany ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RFH (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -545,6 +552,13 @@ https://vavoo.to/play/1657710953/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3505288569/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RNF (6)" tvg-logo="" group-title="Germany ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RNF (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/833459557/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROMANCE TV (6)" tvg-logo="" group-title="Germany ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ROMANCE TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -706,6 +720,13 @@ https://vavoo.to/play/3612708388/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2256412450/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVA OSTBAYERN (6)" tvg-logo="" group-title="Germany ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVA OSTBAYERN (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/3228021216/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOX (6)" tvg-logo="" group-title="Germany ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",VOX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

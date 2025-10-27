@@ -139,13 +139,6 @@ https://vavoo.to/play/1377367420/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1870191820/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 12 (6)" tvg-logo="" group-title="Italy ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY PRIMAFILA 12 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/685286940/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 13 (6)" tvg-logo="" group-title="Italy ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY PRIMAFILA 13 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

@@ -6,6 +6,13 @@
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1364463271/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FINEST TV (6)" tvg-logo="" group-title="Turkey ➾ Music" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FINEST TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1676059389/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL TV (6)" tvg-logo="" group-title="Turkey ➾ Music" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KRAL TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

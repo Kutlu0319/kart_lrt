@@ -6,13 +6,6 @@
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2109401847/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN (6)" tvg-logo="" group-title="Croatia ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3593583982/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN SPIN (6)" tvg-logo="" group-title="Croatia ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN SPIN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

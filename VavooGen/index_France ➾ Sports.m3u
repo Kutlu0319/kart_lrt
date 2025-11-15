@@ -223,13 +223,6 @@ https://vavoo.to/play/3986218671/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2855838847/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLPLAY (6)" tvg-logo="" group-title="France ➾ Sports" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",OLPLAY (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2566760247/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OLYMPIA TV (6)" tvg-logo="" group-title="France ➾ Sports" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",OLYMPIA TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

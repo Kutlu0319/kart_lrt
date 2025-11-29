@@ -174,6 +174,13 @@ https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/408
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/1650982432/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="BRIDGE TV РУССКNN ХИТ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BRIDGE TV РУССКNN ХИТ (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/1738415529/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CARTOON NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -237,13 +244,6 @@ https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/291
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/694886836/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="DETSKIJ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DETSKIJ (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/718036639/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="DETSKIY MIR (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DETSKIY MIR (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -748,13 +748,13 @@ https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/230
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/3184010784/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="MORSKOE TV (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MORSKOE TV (7)
+#EXTINF:-1 tvg-id="None" tvg-name="MIR 24 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MIR 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #KODIPROP:http-user-agent=VAVOO/1.0
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/800816345/index.m3u8
+https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/3982716238/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="MOYA PLANETA (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOYA PLANETA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1952,6 +1952,13 @@ https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/202
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/1113667051/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN‑РУССКИЙ (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CGTN‑РУССКИЙ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/4216517736/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIC MUSIC HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CLASSIC MUSIC HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

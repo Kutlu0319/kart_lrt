@@ -13,6 +13,13 @@ https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/556
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/494454411/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLD TV (6)" tvg-logo="" group-title="Italy ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLD TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/2293280903/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RAI MOVIE (6)" tvg-logo="" group-title="Italy ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RAI MOVIE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -251,6 +258,13 @@ https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/300
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/1716286000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CRIME (6)" tvg-logo="" group-title="Italy ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",STAR CRIME (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vlkn55-production.up.railway.app/proxy/m3u?url=https://vavoo.to/play/4107604362/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV (6)" tvg-logo="" group-title="Italy ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",WARNER TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
